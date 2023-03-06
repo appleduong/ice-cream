@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../jquery-exercise"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ijs"
+  }
+}
